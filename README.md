@@ -32,6 +32,6 @@ Sou um desenvolvedor Full Stack apaixonado e autodidata!
 
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/davifdepaula/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/davifdepaula/davifdepaula/blob/output/github-contribution-grid-snake.svg)
   
 </div>
