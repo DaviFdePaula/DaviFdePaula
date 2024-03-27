@@ -2,7 +2,7 @@
 
 <br />
 
-Sou um desenvolvedor Full Stack apaixonado e autodidata!
+Sou um analista de dados e desenvolvedor Full Stack apaixonado e autodidata!
 
 
 <div align="center">
