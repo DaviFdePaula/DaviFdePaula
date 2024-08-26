@@ -2,7 +2,7 @@
 
 <br />
 
-Sou um analista de dados e desenvolvedor Full Stack apaixonado e autodidata!
+Sou formado em física e trabalho como engenheiro de machine learning e desenvolvedor full stack. Sempre aprendendo, pesquisando e melhorando.
 
 
 <div align="center">
