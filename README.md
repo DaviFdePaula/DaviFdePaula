@@ -29,9 +29,3 @@ Sou formado em física e trabalho como engenheiro de machine learning e desenvol
   <a href="https://www.linkedin.com/in/davifdepaula/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:davi.ferreira100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<div align="center">
-
-  ![Snake animation](https://github.com/davifdepaula/davifdepaula/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
